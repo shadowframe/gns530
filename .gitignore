@@ -28,3 +28,4 @@ fp-info-cache
 *.xml
 *.csv
 gns_left/.DS_Store
+.DS_Store
