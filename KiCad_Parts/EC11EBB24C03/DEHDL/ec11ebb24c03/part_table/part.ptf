@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EC11EBB24C03'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ALPS Electric", "EC11EBB24C03" (!) = "", "EC11EBB24C03", "Other", "688-EC11EBB24C03", "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/EC11EBB24C03?qs=m0BA540hBPc5hAJ6UyzIrA%3D%3D", "", "", "Alps 15 Pulse Incremental Mechanical Rotary Encoder with a 3.5 (Inner Shaft) mm, 6 (Outer Shaft) mm", "https://componentsearchengine.com/Datasheets/2/EC11EBB24C03.pdf", "33 mm"
+END_PART
+
+END.

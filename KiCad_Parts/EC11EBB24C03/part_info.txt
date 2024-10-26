@@ -1,0 +1,9 @@
+Manufacturer=ALPS Electric
+PartNumber=EC11EBB24C03
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=10
+Version=1.1
+Released=2019-06-16 21:04:27
+Downloaded=2024-10-25 21:27:35
+3D=Y

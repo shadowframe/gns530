@@ -1,0 +1,9 @@
+Manufacturer=ALPS Electric
+PartNumber=EC11E1534408
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=7
+Version=1.3
+Released=2023-04-21 07:58:53
+Downloaded=2024-10-26 17:35:27
+3D=Y

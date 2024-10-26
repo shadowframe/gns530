@@ -1,0 +1,156 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "B3F-4055"
+   (description "Yellow Plunger Tactile Switch, SPST-NO 0.05 A@ 24 V dc 3mm")
+   (family "SWI")
+   (package "B3F-4055")
+   (attribute "Datasheet Link" "https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
+   (attribute "Manufacturer_Name" "Omron Electronics")
+   (attribute "Manufacturer_Part_Number" "B3F-4055")
+   (attribute "Mouser Part Number" "653-B3F-4055")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-4055?qs=B3tblJ0Nlt%2FdFVcSHGFuxQ%3D%3D")
+   (attribute "Arrow Part Number" "B3F-4055")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/b3f4055/omron")
+   (gate
+    (symbol "B3F-4055")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "B3F-4055"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "B3F-4055"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -6 6)
+      (pt 6 6)
+      (pt 6 -6)
+      (pt -6 -6)
+      (pt -6 6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -6 6)
+      (pt 6 6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 6 -6)
+      (pt -6 -6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -6 6)
+      (pt -6 3.849))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -6 -6)
+      (pt -6 -3.849))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 6 -6)
+      (pt 6 -3.849))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 6 6)
+      (pt 6 3.849))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt 7.773 -2.384) (pt 7.937 -2.384)
+     )
+    )
+   )
+   (leg 1 (pt 6.25 -2.5) (padstack 0))
+   (leg 2 (pt -6.25 -2.5) (padstack 0))
+   (leg 3 (pt 6.25 2.5) (padstack 0))
+   (leg 4 (pt -6.25 2.5) (padstack 0))
+   (leg 5 (pt 0 4.5) (padstack 5))
+   (leg 6 (pt 0 -4.5) (padstack 6))
+   (padstack 0
+    (hole 1.25)
+    (plated true)
+    (pad (layer TCOP) (round 2))
+    (pad (layer INNER) (round 2))
+    (pad (layer BCOP) (round 2))
+   )
+   (padstack 5
+    (hole 1.85)
+    (plated false)
+    (pad (layer TCOP) (round 1.85))
+    (pad (layer INNER) (round 1.85))
+    (pad (layer BCOP) (round 1.85))
+   )
+   (padstack 6
+    (hole 1.85)
+    (plated false)
+    (pad (layer TCOP) (round 1.85))
+    (pad (layer INNER) (round 1.85))
+    (pad (layer BCOP) (round 1.85))
+   )
+   (model "B3F-4055.stp"
+    (euler 90 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

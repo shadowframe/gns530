@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'B3F_4055'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Omron Electronics", "B3F-4055" (!) = "", "B3F-4055", "Other", "653-B3F-4055", "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-4055?qs=B3tblJ0Nlt%2FdFVcSHGFuxQ%3D%3D", "B3F-4055", "https://www.arrow.com/en/products/b3f4055/omron", "Yellow Plunger Tactile Switch, SPST-NO 0.05 A@ 24 V dc 3mm", "https://www.omron.com/ecb/products/pdf/en-b3f.pdf"
+END_PART
+
+END.

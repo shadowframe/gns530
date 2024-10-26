@@ -1,0 +1,19 @@
+.EC11E1534408 :1 ;Mechanical Encoder Rotary Incremental Flat 0.007N.m Straight Quadrature Digital Square Wave 15PPR Through Hole PC Pin Automotive
+EC11E1534408
+*STM VR
+*NGS
+*PNM 1=A1 2=B1 3=C1 4=D1 5=E1 6=MH1 7=MH2
+*PLB 1="CCW" 2="WIPER" 3="CW" 4="COM" 5="NO" 6="MH1" 7="MH2"
+*MXP 7
+*DFN EC11E1534408
+~!Manufacturer_Name (ALPS Electric)
+~!Manufacturer_Part_Number (EC11E1534408)
+~!Mouser Part Number (688-EC11E1534408)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Alps-Alpine/EC11E1534408?qs=PoKhxlfUXjJk5yy1jIb28A%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/ALPS-Electric-EC11E1534408_C278348.pdf)
+~!Height (24.5mm)
+~!3D_Model (EC11E1534408)
+EC11E1534408
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

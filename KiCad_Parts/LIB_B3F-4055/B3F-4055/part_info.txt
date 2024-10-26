@@ -1,0 +1,9 @@
+Manufacturer=Omron Electronics
+PartNumber=B3F-4055
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2017-09-06 09:24:49
+Downloaded=2024-10-26 01:08:45
+3D=Y
