@@ -30,3 +30,10 @@ fp-info-cache
 gns_left/.DS_Store
 .DS_Store
 .DS_Store
+.DS_Store
+docs/.obsidian/app.json
+docs/.obsidian/appearance.json
+docs/.obsidian/core-plugins.json
+docs/.obsidian/graph.json
+docs/.obsidian/workspace.json
+.DS_Store

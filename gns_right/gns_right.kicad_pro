@@ -494,7 +494,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../../../Desktop/gns/gns_right/gns_right.step",
+      "step": "gns_right.step",
       "svg": "",
       "vrml": ""
     },
